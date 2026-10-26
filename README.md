@@ -1,4 +1,4 @@
-# Self-Life
+# Shelf-Life
 
 A new Flutter project.
 
